@@ -16,4 +16,6 @@ Security & Networking
 Languages & Automation
 - Python (basic)
 
+mkdir scripts configs proof diagnostics assets
+touch README.md
 
