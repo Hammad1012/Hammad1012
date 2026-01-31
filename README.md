@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hammad Alajmi
 
-<!--
-**Hammad1012/Hammad1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mission
+Security practitioner specializing in **system hardening, network defense, and incident analysis**, with hands-on experience translating lab environments into enterprise-grade security documentation.
 
-Here are some ideas to get you started:
+## Technical Toolkit
+Operating Systems
+- Linux (Ubuntu)
+- Windows Server ( windows 11)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Security & Networking
+- Firewalls (iptables)
+- Wireshark
+- Nmap
+
+Languages & Automation
+- Python (basic)
+
+
